@@ -21,7 +21,7 @@
       </button>
 	</li>
 	<li>
-	  <button onclick=" window.open('#', '_blank')">
+	  <button onclick=" window.open('./curriculo/202204-Curriculo-Luis Felipe Ferreira dos Santos.pdf', '_blank')">
         <img class="buttonLogo" src="./imagens/curriculo.png" alt="curriculo">
         Curriculo
       </button>
